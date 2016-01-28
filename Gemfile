@@ -48,4 +48,4 @@ end
 
   gem 'devise', '~>3.5'
   gem 'rails_12factor', group: :production
-  gem 'puma'
+#  gem 'puma'
